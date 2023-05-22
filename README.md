@@ -24,4 +24,5 @@ Para testá-lo:
 4. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
 5. Selecione Ferramentas -> Placas e baixe a placa WEMOS LOLIN32
 7. Tome certeza de que o esp32 está conectado na porta COM correta
-8. Rode o código
+8. Substitua sua chave da OpenWeatherMap API e sua WiFi no código
+9. Rode o código
