@@ -15,3 +15,13 @@ de chuva e, ao final, o algoritmo identificou de maneira correta se iria ou não
 ![image](https://github.com/RafaPiveta/PrevisaoDeChuva/assets/105398921/4f145bc6-86a3-4069-aaae-aee4b913d237)
 
 Para visualizar o projeto completo acesse meu LinkedIn: https://www.linkedin.com/in/rafael-olivare-piveta/
+
+Para testá-lo:
+
+1. Clone esse repositório usando: git clone git@github.com:RafaPiveta/JogoDaForca.git
+2. Abra o Arduino IDE e baixe as bibliotecas a seguir:
+3. - Arduino_JSON by Arduino
+4. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
+5. Selecione Ferramentas -> Placas e baixe as placa WEMOS LOLIN32
+7. Tome certeza de que todos que o esp32 está conectado na porta COM correta
+8. Rode o código
