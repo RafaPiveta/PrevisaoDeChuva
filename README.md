@@ -22,6 +22,6 @@ Para testá-lo:
 2. Abra o Arduino IDE e baixe as bibliotecas a seguir:
 3. - Arduino_JSON by Arduino
 4. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
-5. Selecione Ferramentas -> Placas e baixe as placa WEMOS LOLIN32
-7. Tome certeza de que todos que o esp32 está conectado na porta COM correta
+5. Selecione Ferramentas -> Placas e baixe a placa WEMOS LOLIN32
+7. Tome certeza de que o esp32 está conectado na porta COM correta
 8. Rode o código
