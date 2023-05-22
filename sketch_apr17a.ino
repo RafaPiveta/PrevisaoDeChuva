@@ -1,3 +1,6 @@
+// Aluno: Rafael Olivare Piveta
+// Curso: Engenharia da Computação
+
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <Arduino_JSON.h>
