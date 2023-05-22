@@ -18,7 +18,7 @@ Para visualizar o projeto completo acesse meu LinkedIn: https://www.linkedin.com
 
 Para testá-lo:
 
-1. Clone esse repositório usando: git clone git@github.com:RafaPiveta/JogoDaForca.git
+1. Clone esse repositório usando: git clone git@github.com:RafaPiveta/PrevisaoDeChuva.git
 2. Abra o Arduino IDE e baixe as bibliotecas a seguir:
 3. - Arduino_JSON by Arduino
 4. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
