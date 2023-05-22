@@ -6,8 +6,8 @@ O objetivo desse trabalho foi criar um aplicativo de previsão de chuva, o traba
 3. OpenWeatherMap API - Uma API cujo foi utilizada para obtenção de dados de previsão
 4. Internet Of Things (Iot)
 
-Ao final do projeto, a placa seria colocada juntamente a um sistema de coleta de água de chuva para que de acordo com a previsão, fosse possível fechar a valvúla
-de água da Sanepar (Companhia de Água da região de Curitiba) e assim, econimizar dinheiro. Foram realizados testes em dias com previsão de chuva e dias sem previsão
+Ao final do projeto, a placa seria colocada juntamente a um sistema de coleta de água de chuva para que de acordo com a previsão, fosse possível fechar a válvula
+de água da Sanepar (Companhia de Água da região de Curitiba) e assim, economizar dinheiro. Foram realizados testes em dias com previsão de chuva e dias sem previsão
 de chuva e, ao final, o algoritmo identificou de maneira correta se iria ou não chover.
 
 ![image](https://github.com/RafaPiveta/PrevisaoDeChuva/assets/105398921/1ea8f140-bd55-4e49-b597-2d889db68d76)
