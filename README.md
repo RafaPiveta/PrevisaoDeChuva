@@ -19,10 +19,11 @@ Para visualizar o projeto completo acesse meu LinkedIn: https://www.linkedin.com
 Para testá-lo:
 
 1. Clone esse repositório usando: git clone git@github.com:RafaPiveta/PrevisaoDeChuva.git
-2. Abra o Arduino IDE e baixe as bibliotecas a seguir:
-3. - Arduino_JSON by Arduino
-4. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
-5. Selecione Ferramentas -> Placas e baixe a placa WEMOS LOLIN32
+2. Tome certeza de que está utilizando um esp32 com display OLED
+3. Abra o Arduino IDE e baixe as bibliotecas a seguir:
+4. - Arduino_JSON by Arduino
+5. - ESP8266 and ESP32 OLED driver for SSD1306 displays by ThingPluse, Fabrice Weinberg
+6. Selecione Ferramentas -> Placas e baixe a placa WEMOS LOLIN32
 7. Tome certeza de que o esp32 está conectado na porta COM correta
 8. Substitua sua chave da OpenWeatherMap API e sua WiFi no código
 9. Rode o código
